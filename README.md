@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=black&text=Minji%20Lee%20%7C%20Data%20Engineer&fontColor=ffffff&fontSize=40&height=150&fontAlignY=30&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=black&text=Minji%20Lee&fontColor=ffffff&fontSize=40&height=150&fontAlignY=30&section=header)
 
 <!--연락망-->
 <h2 align="center" style="font-size:24px;">📫 Connect with Me 📫</h2>
